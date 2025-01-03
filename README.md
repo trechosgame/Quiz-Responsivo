@@ -14,4 +14,10 @@ https://www.youtube.com/watch?v=QMSOxmeIZX8
 # 5 Random Quiz Application using by Html Css Javascript
 https://www.youtube.com/watch?v=4QyJJHYC8-Y
 
+# Redes Sociais:
+- https://www.instagram.com/trechosgame/
+- https://www.linkedin.com/in/debora-inocencio/
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/trechosgame
+
 
