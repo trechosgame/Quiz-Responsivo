@@ -13,7 +13,7 @@
 # Minhas Redes Sociais:
 - https://www.instagram.com/trechosgame/
 - https://wwwbehance.net/trechosgame
-- hMusttps://www.colab55.com/@trechosdecodigo
+- https://www.colab55.com/@trechosdecodigo
 - https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
 - https://github.com/trechosgame
   
